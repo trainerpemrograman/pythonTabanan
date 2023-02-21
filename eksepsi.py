@@ -8,3 +8,4 @@ else :
     print("Hasil Penjumlahan : ", hasil)
 finally:
     print("Akhir dari sebuah program penjumlahan")
+    print("ini adalah contoh eksepsi")
